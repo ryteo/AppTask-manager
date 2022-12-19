@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ConsoleApi": {
+      "commandName": "Project"
+    }
+  }
+}
